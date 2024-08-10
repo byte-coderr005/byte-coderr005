@@ -1,16 +1,23 @@
 ## Hi there 👋
+I am bytecoderr.
+You can see my work on my repositories. Some of them is not complete. I am trying to complete.
+Thanks for understanding.
 
-<!--
-**byte-coderr005/byte-coderr005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java**  
+  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+  
+- **JavaScript**  
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+  
+- **HTML**  
+  ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+  
+- **CSS**  
+  ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+  
+- **C**  
+  ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+  
+- **C#**  
+  ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
